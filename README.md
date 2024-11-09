@@ -2,6 +2,7 @@
 
 This repository tracks my progress through 42 School's Common Core in Porto.
 
+---
 ## Projects
 
 | Project | Status   | Language | Score       |
@@ -12,5 +13,3 @@ This repository tracks my progress through 42 School's Common Core in Porto.
 *More projects coming soon!*
 
 ---
-
-<p align="right">(<a href="#top">Back to Top</a>)</p>
