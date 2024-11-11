@@ -8,7 +8,7 @@ This repository tracks my progress through 42 School's Common Core in Porto.
 | Project | Status   | Language | Score       |
 | ------- | -------- | -------- | ----------- |
 | [libft](https://github.com/therappha/42libft) | Complete | C        | 125 / 100 ⭐ |
-| [ft_printf](https://github.com/therappha/42_ft_printf)| Ongoing | C        | ... |
+| [ft_printf](https://github.com/therappha/42_ft_printf)| Complete | C        | 100 / 100 ⭐ |
 
 
 ---
