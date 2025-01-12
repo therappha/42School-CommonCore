@@ -11,7 +11,8 @@ This repository tracks my progress through 42 School's Common Core in Porto.
 | [ft_printf](https://github.com/therappha/42_ft_printf)| Complete | C        | 100 / 100 ⭐ |
 | [get_next_line](https://github.com/therappha/42_get_next_line)| Complete | C        |  100 / 100 ⭐ |
 | [Born2beroot](https://github.com/therappha/42Born2beroot)| Complete | Shell      |   100 / 100 ⭐ |
-| [Push_swap](https://github.com/therappha/push_swap)| Ongoing | C      |  ... |
+| [push_swap](https://github.com/therappha/push_swap)| Ongoing | C      |  ... |
+| [so_long](https://github.com/therappha/42so_long)| Ongoing | C      |  ... |
 
 
 
