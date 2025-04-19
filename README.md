@@ -17,7 +17,7 @@ This repository tracks my progress through 42 School's Common Core in Porto.
 | [Minitalk... Chess?](https://github.com/therappha/minitalk_chess_mlx) | Side Project | C        | 
 | [Philosophers](https://github.com/therappha/42_Philosophers) | Ongoing... | C        |
 | [Minishell](https://github.com/therappha/42_Minishell) | Ongoing... | C        |
-
+| [cub3D](https://github.com/therappha/42_cub3D) | Ongoing... | C          |
 
 
 ---
