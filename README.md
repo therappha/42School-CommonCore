@@ -18,7 +18,7 @@ This repository tracks my progress through 42 School's Common Core in Porto.
 | [Philosophers](https://github.com/therappha/42_Philosophers) | Ongoing... | C        |
 | [Minishell](https://github.com/therappha/42_Minishell) | Ongoing... | C        |
 | [cub3D](https://github.com/therappha/42_cub3D) | Ongoing... | C          |
-| [C++ Exercises]([https://github.com/therappha/42_cpp]) | Ongoing.. | C          |
+| [Cpp Modules](https://github.com/therappha/42_cpp) | Ongoing.. | C          |
 
 
 
